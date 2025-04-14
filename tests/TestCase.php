@@ -3,8 +3,8 @@
 namespace Josuapsianturi\LaravelTac\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Josuapsianturi\LaravelTac\LaravelTacServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
