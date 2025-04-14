@@ -1,4 +1,6 @@
-# This is my package laravel-tac
+# laravel-tac
+
+A Laravel package for Tailwind + AlpineJS components.
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/josuapsianturi/laravel-tac.svg?style=flat-square)](https://packagist.org/packages/josuapsianturi/laravel-tac)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/josuapsianturi/laravel-tac/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/josuapsianturi/laravel-tac/actions?query=workflow%3Arun-tests+branch%3Amain)

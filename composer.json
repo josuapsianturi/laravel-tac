@@ -1,6 +1,6 @@
 {
     "name": "josuapsianturi/laravel-tac",
-    "description": "This is my package laravel-tac",
+    "description": "A Laravel package for Tailwind + AlpineJS components.",
     "keywords": [
         "josuapsianturi",
         "laravel",
