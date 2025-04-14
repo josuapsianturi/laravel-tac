@@ -3,9 +3,9 @@
 namespace Josuapsianturi\LaravelTac;
 
 use Illuminate\Support\Facades\Blade;
+use Josuapsianturi\LaravelTac\Commands\LaravelTacCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Josuapsianturi\LaravelTac\Commands\LaravelTacCommand;
 
 class LaravelTacServiceProvider extends PackageServiceProvider
 {
