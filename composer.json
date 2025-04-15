@@ -1,6 +1,6 @@
 {
     "name": "josuapsianturi/laravel-tac",
-    "description": "Laravel TAC is a Laravel package that provides a set of reusable UI components built with Tailwind CSS and AlpineJS, making it easy to integrate interactive components into your Laravel application.",
+    "description": "Reusable Tailwind + AlpineJS UI components for Laravel",
     "keywords": [
         "josuapsianturi",
         "laravel",
@@ -69,6 +69,5 @@
             }
         }
     },
-    "minimum-stability": "dev",
     "prefer-stable": true
 }
