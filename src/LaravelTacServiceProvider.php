@@ -30,9 +30,10 @@ class LaravelTacServiceProvider extends PackageServiceProvider
 
         // Register component
         Blade::component('tac::components.dropdown', 'tac-dropdown');
+        Blade::component('tac::components.navigation-link', 'tac-navigation-link');
 
         $this->publishes([
-            __DIR__.'/../resources/views/components' => resource_path('views/vendor/tac/components'),
+            __DIR__ . '/../resources/views/components' => resource_path('views/vendor/tac/components'),
         ], 'laravel-tac-components');
     }
 }
