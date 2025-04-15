@@ -23,10 +23,10 @@ You can install the package via composer:
 composer require josuapsianturi/laravel-tac
 ```
 
-Optionally, you can publish the views using
+Optionally, you can publish the components using
 
 ```bash
-php artisan vendor:publish --tag="laravel-tac-views"
+php artisan vendor:publish --tag="laravel-tac-components"
 ```
 
 ## Usage
