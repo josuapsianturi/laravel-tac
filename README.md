@@ -40,9 +40,9 @@ Dropdown Component
 In Your Blade View, You can use the dropdown component by adding the following Blade syntax in your view file:
 
 ```bash
-<x-tac-navigation-link  href="{{ route('products') }}" :active="request()->routeIs(['products.*', 'products'])">
-                        {{ __('Products') }}
-                    </x-tac-navigation-link>
+<x-tac::button.base>
+    Click Me
+</x-tac::button.base>
 ```
 
 This will render a Tailwind-styled dropdown menu with AlpineJS handling the toggle logic.
