@@ -1,6 +1,6 @@
 {
     "name": "josuapsianturi/laravel-tac",
-    "description": "Reusable Tailwind + AlpineJS UI components for Laravel",
+    "description": "Laravel Blade UI component library designed specifically for TALL stack applications",
     "keywords": [
         "josuapsianturi",
         "laravel",
